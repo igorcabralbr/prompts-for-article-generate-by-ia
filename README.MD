@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/cover.png"
+    src=".github/assets/cover.jpg"
     width="400"  
   />
 </p>
